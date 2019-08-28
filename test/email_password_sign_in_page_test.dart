@@ -288,5 +288,4 @@ void main() {
     expect(signedIn, false);
   });
 
-  // TODO: Error presentation tests
 }

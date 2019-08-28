@@ -245,6 +245,4 @@ void main() {
     });
   });
 
-  // TODO: sendSignInWithEmailLink tests
-  // TODO: ValueNotifier loading tests
 }
